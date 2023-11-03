@@ -1,0 +1,6 @@
+This source code folder contains 4 folders:
+
+Images - a folder that holds the sample images to be passed through the edge detection
+Edge detection - the output of both edge detection methods
+Q2 - sobel edge detector from scratch using convolution and 2d kernels with min max supression
+Q3 - same as q2 but introducing sticks filter 
